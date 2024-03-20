@@ -1,7 +1,7 @@
 {
      "etudiants":
       [
-            {"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "1", "cours": []},
+            {"id_etudiant": "00", "nom":"Élève Démo", "session": "1", "cours": []},
             {"id_etudiant": "01", "nom":"Jean", "session": "1", "cours": ["Prog1", "DB1", "web2","Français1"]},
             {"id_etudiant": "02", "nom":"Alice", "session": "2", "cours": ["Prog2", "DB2"]},
             {"id_etudiant": "05", "nom":"Fabien", "session": "4", "cours": []},
