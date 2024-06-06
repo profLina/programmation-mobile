@@ -4,6 +4,6 @@
             {"id": "01", "nom":"Jean", "session": "1"},
             {"id": "02", "nom":"Alice", "session": "2"},
             {"id": "03", "nom":"Fabien", "session": "4"},
-            {"id": "04", "nom":"Julien", "session": "5"},
+            {"id": "04", "nom":"Julien", "session": "5"}
       ]
 }
