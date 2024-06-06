@@ -1,9 +1,9 @@
 {
      "etudiants":
       [
-            {"id": "01", "nom":"Jean", "session": "1"},
-            {"id": "02", "nom":"Alice", "session": "2"},
-            {"id": "03", "nom":"Fabien", "session": "4"},
-            {"id": "04", "nom":"Julien", "session": "5"}
+            {"id": "01", "nom":"Jean", "note": "100"},
+            {"id": "02", "nom":"Alice", "note": "88"},
+            {"id": "03", "nom":"Fabien", "note": "44"},
+            {"id": "04", "nom":"Julien", "note": "65"}
       ]
 }
