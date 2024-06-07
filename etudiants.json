@@ -1,6 +1,4 @@
-{
-     "etudiants":
-      [
+{"etudiants":[
             {"id": "01", "nom":"Jean", "note": "100"},
             {"id": "02", "nom":"Alice", "note": "88"},
             {"id": "03", "nom":"Fabien", "note": "44"},
